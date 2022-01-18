@@ -1,0 +1,33 @@
+{
+  "host": "localhost",
+  "port": 8888,
+  "scenarios": [
+    {
+      "title": "The test scenario 1.",
+      "description": "This is the test scenario.",
+      "data": [
+        {
+          "title": "The test scenario 1 data 1.",
+          "file": "data/data.bin",
+          "response": "you say: abc\n"
+        },
+        {
+          "title": "The test scenario 1 data 2.",
+          "file": "data/data.bin",
+          "response": "you say: abc\n"
+        }
+      ]
+    },
+    {
+      "title": "The test scenario 2.",
+      "description": "This is the test scenario.",
+      "data": [
+        {
+          "title": "The test scenario 2 data 1.",
+          "file": "data/data.bin",
+          "response": "you say: abc\n"
+        }
+      ]
+    }
+  ]
+}
